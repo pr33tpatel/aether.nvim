@@ -32,7 +32,7 @@
 
 ```lua
 {
-  "your-username/aether.nvim",
+  "pr33tpatel/aether.nvim",
   priority = 1000,   -- load before other plugins
   config = function()
     require("aether").setup({
